@@ -1,0 +1,29 @@
+﻿# Visual Studio
+.vs/
+*.VC.db
+*.VC.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ipch
+*_BuiltData.uasset
+
+# Unreal generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Backup/
+Content/StarterContent/
+
+# Build output
+Build/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS junk
+Thumbs.db
+.DS_Store
